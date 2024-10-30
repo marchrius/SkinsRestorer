@@ -3,5 +3,5 @@ plugins {
 }
 
 mapping {
-    mcVersion = "1.21.2"
+    mcVersion = "1.21.3"
 }
