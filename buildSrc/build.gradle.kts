@@ -14,6 +14,7 @@ repositories {
     maven("https://maven.wagyourtail.xyz/snapshots") {
         name = "PaperMC Repository"
     }
+    mavenLocal()
 }
 
 dependencies {

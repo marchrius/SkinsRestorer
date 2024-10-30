@@ -56,5 +56,6 @@ allprojects {
             name = "WagYourTail Snapshot Repository"
         }
         mavenCentral()
+        mavenLocal()
     }
 }
